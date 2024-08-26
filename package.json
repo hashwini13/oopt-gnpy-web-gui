@@ -1,0 +1,9 @@
+{
+  "name": "oopt-gnpy-web-ui",
+  "version": "1.0.0",
+  "description": "A web UI for GNPy",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "npx serve -s ."
+  }  
+}
